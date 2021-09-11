@@ -22,3 +22,14 @@ if(todoText) {
         todoEl.classList.add('completed')
     }
     //if 
+
+    todoEl.innerText = todoText
+
+    todoEl.addEventListener('click', () => {
+        todoEl.classList.toggle('completed')
+        updateLS()
+    }) 
+
+
+    todoEl.addEventListener('contextmenu', (e) => {
+        
