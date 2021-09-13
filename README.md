@@ -1,7 +1,8 @@
 
 # Todo
- simple Todo list with pure #JavaScript
+ simple Todo list with pure ## JavaScript
 
 ## DEMO
 
-![Screenshot] (Todo pic.png)
+![Screenshot].(Todo pic.png)
+
