@@ -5,8 +5,7 @@
 ## DEMO
 
 
-![Screenshot](Todo pic.png)
-
+<!-- ![Screenshot](Todo pic.png) -->
 
 
 ![Screenshot](demo.png)
